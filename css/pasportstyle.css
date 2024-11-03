@@ -1,0 +1,48 @@
+
+main {
+        margin-top: 100px;
+        height: 100vh;
+        background-image: url(../images/passpotr_shablon\ copy.png);
+        position: relative;        
+        background-position: center-bottom;
+        background-repeat: no-repeat;
+        padding-top: 100px;
+      }
+      .block1 {
+        position: absolute;
+        left: 90px;
+        top: 65px;
+        font: bold 90% serif;
+      }
+      .block2 {
+        position: absolute;
+        left: 80px;
+        top: 125px;
+      }
+      .block3 {
+        position: absolute;
+        left: 250px;
+        top: 125px;
+      }
+      .block4 {
+        position: absolute;
+        left: 218px;
+        top: 330px;
+        font: bold 100% serif;
+      }
+      .block5 {
+        position: absolute;
+        left: 218px;
+        top: 380px;
+      }
+      .block6 {
+        position: absolute;
+        left: 218px;
+        top: 405px;
+      }
+      .block7 {
+        position: absolute;
+        left: 170px;
+        top: 425px;
+      }
+      .block8 {
