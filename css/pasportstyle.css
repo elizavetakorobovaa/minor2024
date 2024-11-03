@@ -45,7 +45,8 @@ main {
         left: 170px;
         top: 425px;
       }
-      .block8 {position: absolute;
+      .block8 {
+        position: absolute;
         left: 260px;
         top: 425px;
       }
